@@ -1,0 +1,4 @@
+The Polygon Plugin for Unity (v1.9.0)
+=======================
+
+To use polygon, place the polygon script on the root of a model with an animator that has a valid humanoid avatar
