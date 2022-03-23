@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.constructionscenario.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\JICot\\Desktop\\Work Folder\\Work Projects\\Construction Scenario\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\JICot\\Documents\\GitHub\\Contrustion-Scenario\\Construction Scenario\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "Construction Scenario [Testing]"
