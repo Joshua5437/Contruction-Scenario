@@ -1,8 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
+using Valve.VR;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using Valve.VR;
+using System.Collections;
+using System.Collections.Generic;
 
 public class VRInputModule : BaseInputModule
 {
